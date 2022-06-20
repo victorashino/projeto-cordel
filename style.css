@@ -19,7 +19,7 @@
 
 html, body {
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: white;
     font-family: var(--font1);
 }
 
@@ -65,7 +65,7 @@ section > p {
 
 section.normal{
     background-color: white;
-    color: white;
+    color: black;
 }
 
 section.imagem{
