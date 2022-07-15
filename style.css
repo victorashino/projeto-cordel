@@ -50,13 +50,18 @@ header a:hover, footer a:hover {
     text-decoration: underline;
 }
 
+main{
+    margin: auto;
+    max-width: 80vw;
+}
+
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 3.5vw;
+    font-size: 2vw;
 }
 
 section > p {
@@ -78,6 +83,7 @@ section.imagem{
 
 section.imagem > p {
     display: inline-block;
+    margin-left: 9vw;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
